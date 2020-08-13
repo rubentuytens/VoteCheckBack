@@ -1,0 +1,16 @@
+C:\Users\Ruben\source\repos\Herexamen\Herexamen\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Ruben\source\repos\Herexamen\Herexamen\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Ruben\source\repos\Herexamen\Herexamen\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Ruben\source\repos\Herexamen\Herexamen\bin\Debug\netcoreapp2.2\Herexamen.deps.json
+C:\Users\Ruben\source\repos\Herexamen\Herexamen\bin\Debug\netcoreapp2.2\Herexamen.runtimeconfig.json
+C:\Users\Ruben\source\repos\Herexamen\Herexamen\bin\Debug\netcoreapp2.2\Herexamen.runtimeconfig.dev.json
+C:\Users\Ruben\source\repos\Herexamen\Herexamen\bin\Debug\netcoreapp2.2\Herexamen.dll
+C:\Users\Ruben\source\repos\Herexamen\Herexamen\obj\Debug\netcoreapp2.2\Herexamen.csprojAssemblyReference.cache
+C:\Users\Ruben\source\repos\Herexamen\Herexamen\obj\Debug\netcoreapp2.2\Herexamen.RazorAssemblyInfo.cache
+C:\Users\Ruben\source\repos\Herexamen\Herexamen\obj\Debug\netcoreapp2.2\Herexamen.RazorAssemblyInfo.cs
+C:\Users\Ruben\source\repos\Herexamen\Herexamen\obj\Debug\netcoreapp2.2\Herexamen.AssemblyInfoInputs.cache
+C:\Users\Ruben\source\repos\Herexamen\Herexamen\obj\Debug\netcoreapp2.2\Herexamen.AssemblyInfo.cs
+C:\Users\Ruben\source\repos\Herexamen\Herexamen\obj\Debug\netcoreapp2.2\Herexamen.RazorTargetAssemblyInfo.cache
+C:\Users\Ruben\source\repos\Herexamen\Herexamen\bin\Debug\netcoreapp2.2\Herexamen.pdb
+C:\Users\Ruben\source\repos\Herexamen\Herexamen\obj\Debug\netcoreapp2.2\Herexamen.dll
+C:\Users\Ruben\source\repos\Herexamen\Herexamen\obj\Debug\netcoreapp2.2\Herexamen.pdb
